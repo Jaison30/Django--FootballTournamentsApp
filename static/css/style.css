@@ -1,0 +1,26 @@
+.img-profile {
+    height: 2rem;
+    width: 2rem;
+}
+
+.display-3 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    word-break: break-all !important;
+}
+.card-body{
+	overflow: auto !important;
+}
+.carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; 
+    }
+  }

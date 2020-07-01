@@ -1,0 +1,63 @@
+
+.jumbotron{
+   background-color: transparent !important; 
+}
+    .login-container{
+    display: contents;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form{
+    padding: 5%;
+    background-color: #fff;
+}
+.login-form h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-sidebar{
+    padding: 5%;
+    background-color: #4E5D6C;
+    
+}
+.login-form-sidebar h3{
+    text-align: center;
+    color: #fff;
+}
+.login-container form{
+    padding: 10%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+.login-form-sidebar .btnSubmit{
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+.login-form-sidebar .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-form .ForgetPwd{
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+.form-control{
+    border: 1px solid #4E5D6C !important;
+}
